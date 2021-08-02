@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Tictactoetbl.resources
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.AssemblyInfo.cs
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.exe
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.deps.json
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.runtimeconfig.json
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.runtimeconfig.dev.json
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.dll
+C:\Users\PC\source\repos\WinFormsApp2\bin\Debug\netcoreapp3.1\TicTacToe_Bailon.pdb
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.dll
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.pdb
+C:\Users\PC\source\repos\WinFormsApp2\obj\Debug\netcoreapp3.1\TicTacToe_Bailon.genruntimeconfig.cache
